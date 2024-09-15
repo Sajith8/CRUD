@@ -1,0 +1,7 @@
+CREATE TABLE `user123` (
+  `id` int(11) NOT NULL,
+  `name` varchar(11) NOT NULL,
+  `password` varchar(11) NOT NULL,
+  `email` varchar(11) NOT NULL,
+  `city` varchar(11) NOT NULL
+)
